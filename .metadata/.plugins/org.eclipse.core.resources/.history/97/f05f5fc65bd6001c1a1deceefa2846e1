@@ -1,0 +1,10 @@
+/*
+	MemberDTO.java
+*/
+
+package com.test.spr;
+
+public class MemberDTO
+{
+
+}
